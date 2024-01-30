@@ -1,7 +1,7 @@
 ### Im kcual <img src="https://cs2.pikabu.ru/post_img2/2014/01/31/6/1391153946_1064183705.gif" width="20px">
 🔓Coding is basically my hobby, in narrow circles it is known as a programmer, a system administrator, and someone from whom you should not borrow money =)
 
-⚒️Skills: C#/C++,HTML+CSS
+⚒️Skills: C#/C++,HTML+CSS,PYTHON
 
 
 
